@@ -95,6 +95,15 @@ $messages['gl'] = array(
 	'right-createbogususerpage' => 'Crear páxinas de usuario de usuarios que non están rexistrados neste wiki',
 );
 
+/** Hebrew (עברית)
+ * @author Amire80
+ */
+$messages['he'] = array(
+	'nobogususerpages-desc' => 'הגבלת יצירת דפי משתמש עם שמות של משתמשים שאינם קיימים',
+	'badaccess-bogususerpage' => 'שם המשתמש עבור דף המשתמש הזה אינו קיים. אין לך הרשאה ליצור דף משתמש מזויף.',
+	'right-createbogususerpage' => 'ליצור דף משתמש עבור משתמשים שאינם רשומים בוויקי הזה',
+);
+
 /** Upper Sorbian (Hornjoserbsce)
  * @author Michawiki
  */
