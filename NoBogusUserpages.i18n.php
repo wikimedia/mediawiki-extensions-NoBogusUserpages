@@ -149,6 +149,15 @@ $messages['nl'] = array(
 	'right-createbogususerpage' => "Gebruikerspagina's aanmaken voor gebruikers die niet bekend zijn in deze wiki",
 );
 
+/** Polish (Polski)
+ * @author BeginaFelicysym
+ */
+$messages['pl'] = array(
+	'nobogususerpages-desc' => 'Ogranicza tworzenie stron użytkowników dla których użytkownik nie istnieje',
+	'badaccess-bogususerpage' => 'Użytkownik tej strony użytkownika nie istnieje. Nie masz uprawnienia do tworzenia nieprawdziwej strony użytkownika.',
+	'right-createbogususerpage' => 'Tworzenie stron użytkownika dla użytkowników, którzy nie są zarejestrowane w tym wiki',
+);
+
 /** Piedmontese (Piemontèis)
  * @author Borichèt
  * @author Dragonòt
