@@ -77,6 +77,15 @@ $messages['dsb'] = array(
 	'right-createbogususerpage' => 'Wužywarske boki za wužywarjow napóraś, kótarež njejsu na toś tom wikiju zregistrěrowane',
 );
 
+/** Spanish (Español)
+ * @author Armando-Martin
+ */
+$messages['es'] = array(
+	'nobogususerpages-desc' => 'Restringe la creación de páginas de usuario a los usuarios no registrados',
+	'badaccess-bogususerpage' => 'El usuario de esta página de usuario no existe. No tiene derecho a crear páginas de usuario falsas.',
+	'right-createbogususerpage' => 'Crear páginas de usuario para usuarios que no están registrados en este wiki',
+);
+
 /** French (Français)
  * @author Gomoko
  */
