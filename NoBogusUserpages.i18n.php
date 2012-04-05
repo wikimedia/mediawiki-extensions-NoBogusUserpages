@@ -56,16 +56,17 @@ $messages['be-tarask'] = array(
  */
 $messages['de'] = array(
 	'nobogususerpages-desc' => 'Verhindert das Erstellen von Benutzerseiten zu denen kein Benutzerkonto vorhanden ist',
-	'badaccess-bogususerpage' => 'Zu dieser Benutzerseite ist kein Benutzerkonto vorhanden. Du bist nicht berechtigt diese Benutzerseite zu erstellen.',
+	'badaccess-bogususerpage' => 'Zu dieser Benutzerseite ist kein Benutzerkonto vorhanden. Du bist nicht berechtigt, eine solche Benutzerseite zu erstellen.',
 	'right-createbogususerpage' => 'Benutzerseiten zu nicht vorhandenen Benutzerkonten erstellen',
 );
 
 /** German (formal address) (‪Deutsch (Sie-Form)‬)
+ * @author Geitost
  * @author Kghbln
  * @author SVG
  */
 $messages['de-formal'] = array(
-	'badaccess-bogususerpage' => 'Zu dieser Benutzerseite ist kein Benutzerkonto vorhanden. Sie sind nicht berechtigt diese Benutzerseite zu erstellen.',
+	'badaccess-bogususerpage' => 'Zu dieser Benutzerseite ist kein Benutzerkonto vorhanden. Sie sind nicht berechtigt, eine erfundene Benutzerseite zu erstellen.',
 );
 
 /** Lower Sorbian (Dolnoserbski)
