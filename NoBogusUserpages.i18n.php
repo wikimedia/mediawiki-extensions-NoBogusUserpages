@@ -41,6 +41,15 @@ $messages['qqq'] = array(
 	'right-createbogususerpage' => '{{doc-right|createbogususerpage}}',
 );
 
+/** Asturian (Asturianu)
+ * @author Xuacu
+ */
+$messages['ast'] = array(
+	'nobogususerpages-desc' => "Torga la creación de páxines d'usuariu cuando l'usuariu nun esiste",
+	'badaccess-bogususerpage' => "Nun esiste l'usuariu d'esta páxina d'usuariu. Nun tienes permisu pa crear una páxina d'usuariu falsa.",
+	'right-createbogususerpage' => "Crear páxines d'usuariu pa usuarios que nun tan rexistraos nesta wiki",
+);
+
 /** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  * @author Wizardist
