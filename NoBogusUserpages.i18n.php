@@ -141,6 +141,15 @@ $messages['ia'] = array(
 	'right-createbogususerpage' => 'Crear paginas de usator pro usatores que non es registrate in iste wiki',
 );
 
+/** Japanese (日本語)
+ * @author Shirayuki
+ */
+$messages['ja'] = array(
+	'nobogususerpages-desc' => '存在しない利用者の利用者ページの作成を制限する',
+	'badaccess-bogususerpage' => 'この利用者ページの利用者は存在しません。あなたには偽の利用者ページを作成する権限がありません。',
+	'right-createbogususerpage' => 'このウィキに未登録の利用者の利用者ページを作成',
+);
+
 /** Luxembourgish (Lëtzebuergesch)
  * @author Robby
  */
