@@ -141,6 +141,15 @@ $messages['ia'] = array(
 	'right-createbogususerpage' => 'Crear paginas de usator pro usatores que non es registrate in iste wiki',
 );
 
+/** Italian (Italiano)
+ * @author Beta16
+ */
+$messages['it'] = array(
+	'nobogususerpages-desc' => 'Limita la creazione di pagine utente per le quali non esiste un utente',
+	'badaccess-bogususerpage' => "L'utente di questa pagina non esiste. Non hai i diritti per creare una falsa pagina utente.",
+	'right-createbogususerpage' => 'Crea pagine utente per gli utenti che non sono registrati su questo wiki',
+);
+
 /** Japanese (日本語)
  * @author Shirayuki
  */
