@@ -159,6 +159,16 @@ $messages['ja'] = array(
 	'right-createbogususerpage' => 'このウィキに未登録の利用者の利用者ページを作成',
 );
 
+/** Colognian (Ripoarisch)
+ * @author Purodha
+ */
+$messages['ksh'] = array(
+	'nobogususerpages-desc' => 'Beschrängk de Müjjeleshkeit, Metmaachersigge aanzzelääje, för Metmaacher, di et nit jitt.',
+	'badaccess-bogususerpage' => 'Dä Metmaacher för heh di Metmaachersigg jidd_et nit.
+Do häs nit dat Rääsch, esu en Metmaachersigg aanzelääje.',
+	'right-createbogususerpage' => 'Metmaachersigge aanlääje för Metmaacher, di heh em Wiki nit bikannt sin.',
+);
+
 /** Luxembourgish (Lëtzebuergesch)
  * @author Robby
  */
