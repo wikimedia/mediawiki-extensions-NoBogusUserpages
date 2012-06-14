@@ -41,7 +41,7 @@ $messages['qqq'] = array(
 	'right-createbogususerpage' => '{{doc-right|createbogususerpage}}',
 );
 
-/** Asturian (Asturianu)
+/** Asturian (asturianu)
  * @author Xuacu
  */
 $messages['ast'] = array(
@@ -87,7 +87,7 @@ $messages['dsb'] = array(
 	'right-createbogususerpage' => 'Wužywarske boki za wužywarjow napóraś, kótarež njejsu na toś tom wikiju zregistrěrowane',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Armando-Martin
  */
 $messages['es'] = array(
@@ -96,7 +96,7 @@ $messages['es'] = array(
 	'right-createbogususerpage' => 'Crear páginas de usuario para usuarios que no están registrados en este wiki',
 );
 
-/** French (Français)
+/** French (français)
  * @author Gomoko
  */
 $messages['fr'] = array(
@@ -132,7 +132,7 @@ $messages['hsb'] = array(
 	'right-createbogususerpage' => 'Wužiwarske strony za wužiwarjow wutworić, kotřiž njejsu na tutym wikiju zregistrowani',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -141,7 +141,7 @@ $messages['ia'] = array(
 	'right-createbogususerpage' => 'Crear paginas de usator pro usatores que non es registrate in iste wiki',
 );
 
-/** Italian (Italiano)
+/** Italian (italiano)
  * @author Beta16
  */
 $messages['it'] = array(
@@ -178,7 +178,7 @@ $messages['lb'] = array(
 	'right-createbogususerpage' => 'Säite fir Benotzer uleeën, déi op dëser Wiki net registréiert sinn',
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
@@ -196,7 +196,7 @@ $messages['nl'] = array(
 	'right-createbogususerpage' => "Gebruikerspagina's aanmaken voor gebruikers die niet bekend zijn in deze wiki",
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author BeginaFelicysym
  */
 $messages['pl'] = array(
