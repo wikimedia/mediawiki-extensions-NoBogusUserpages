@@ -75,7 +75,7 @@ $messages['de'] = array(
  * @author SVG
  */
 $messages['de-formal'] = array(
-	'badaccess-bogususerpage' => 'Zu dieser Benutzerseite ist kein Benutzerkonto vorhanden. Sie sind nicht berechtigt, eine erfundene Benutzerseite zu erstellen.',
+	'badaccess-bogususerpage' => 'Zu dieser Benutzerseite ist kein Benutzerkonto vorhanden. Sie sind nicht berechtigt, eine solche Benutzerseite zu erstellen.',
 );
 
 /** Lower Sorbian (Dolnoserbski)
