@@ -50,7 +50,7 @@ $messages['ast'] = array(
 	'right-createbogususerpage' => "Crear páxines d'usuariu pa usuarios que nun tan rexistraos nesta wiki",
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  * @author Wizardist
  */
@@ -78,7 +78,7 @@ $messages['de-formal'] = array(
 	'badaccess-bogususerpage' => 'Zu dieser Benutzerseite ist kein Benutzerkonto vorhanden. Sie sind nicht berechtigt, eine solche Benutzerseite zu erstellen.',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -105,7 +105,7 @@ $messages['fr'] = array(
 	'right-createbogususerpage' => 'Créer des pages utilisateur pour des utilisateurs qui ne sont pas enregistrés sur ce wiki',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -123,7 +123,7 @@ $messages['he'] = array(
 	'right-createbogususerpage' => 'ליצור דף משתמש עבור משתמשים שאינם רשומים בוויקי הזה',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
