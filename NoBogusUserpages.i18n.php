@@ -215,3 +215,12 @@ $messages['pms'] = array(
 	'right-createbogususerpage' => "Creé dle pàgine utent për dj'utent ch'a son pa registrà dzora a sta wiki.",
 );
 
+/** Tagalog (Tagalog)
+ * @author AnakngAraw
+ */
+$messages['tl'] = array(
+	'nobogususerpages-desc' => 'Nagbabawal sa paglikha ng mga pahina ng tagagamit kung saan ang isang tagagamit ay hindi naman umiiral',
+	'badaccess-bogususerpage' => 'Ang tagagamit ng pahinang ito ng tagagamit ay hindi umiiral. Wala kang mga karapatan na lumikha ng hindi totoong mga pahina ng tagagamit.',
+	'right-createbogususerpage' => 'Lumikha ng mga pahina ng tagagamit para sa mga tagagamit na hindi nakarehistro sa wiking ito',
+);
+
