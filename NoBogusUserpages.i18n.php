@@ -215,6 +215,15 @@ $messages['pms'] = array(
 	'right-createbogususerpage' => "Creé dle pàgine utent për dj'utent ch'a son pa registrà dzora a sta wiki.",
 );
 
+/** Tamil (தமிழ்)
+ * @author Shanmugamp7
+ */
+$messages['ta'] = array(
+	'nobogususerpages-desc' => 'பதிவு செய்யாத பயனர்களுக்கு பயனர் பக்கம் உருவாக்குவதை தடுக்கிறது',
+	'badaccess-bogususerpage' => 'இந்தப் பயனர் பக்கத்தின் பயனர் பதிவு செய்யப்படவில்லை. போலியான பயனர் பக்கம் உருவாக்க உங்களுக்கு அனுமதி இல்லை.',
+	'right-createbogususerpage' => 'இந்த விக்கியில் பதிவு செய்யாத பயனர்களுக்கு பயனர் பக்கங்கள் உருவாக்கு',
+);
+
 /** Tagalog (Tagalog)
  * @author AnakngAraw
  */
