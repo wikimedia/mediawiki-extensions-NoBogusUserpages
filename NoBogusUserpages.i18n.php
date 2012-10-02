@@ -50,7 +50,7 @@ $messages['ast'] = array(
 	'right-createbogususerpage' => "Crear páxines d'usuariu pa usuarios que nun tan rexistraos nesta wiki",
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  * @author Wizardist
  */
@@ -69,7 +69,7 @@ $messages['de'] = array(
 	'right-createbogususerpage' => 'Benutzerseiten zu nicht vorhandenen Benutzerkonten erstellen',
 );
 
-/** German (formal address) (‪Deutsch (Sie-Form)‬)
+/** German (formal address) (Deutsch (Sie-Form)‎)
  * @author Geitost
  * @author Kghbln
  * @author SVG
