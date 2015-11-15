@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gomoko"
+		]
+	},
+	"nobogususerpages-desc": "Empêcher la création de pages utilisateur pour lesquelles il n'y a pas d'utilisateur existant",
+	"badaccess-bogususerpage": "L'utilisateur de cette page utilisateur n'existe pas. Vous n'avez pas le droit de créer une fausse page utilisateur.",
+	"right-createbogususerpage": "Créer des pages utilisateur pour des utilisateurs qui ne sont pas enregistrés sur ce wiki"
+}

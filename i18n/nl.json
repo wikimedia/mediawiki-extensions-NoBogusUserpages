@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"nobogususerpages-desc": "Beperkt het aanmaken van gebruikerspagina's waar een gebruiker niet bestaat",
+	"badaccess-bogususerpage": "De gebruiker voor deze gebruikerspagina bestaat niet. U hebt geen rechten om deze gebruikerspagina aan te maken.",
+	"right-createbogususerpage": "Gebruikerspagina's aanmaken voor gebruikers die niet bekend zijn in deze wiki"
+}
