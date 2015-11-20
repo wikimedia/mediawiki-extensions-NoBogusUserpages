@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kghbln"
+			"Kghbln",
+			"Metalhead64"
 		]
 	},
-	"nobogususerpages-desc": "Verhindert das Erstellen von Benutzerseiten zu denen kein Benutzerkonto vorhanden ist",
+	"nobogususerpages-desc": "Verhindert das Erstellen von Benutzerseiten, zu denen kein Benutzerkonto vorhanden ist",
 	"badaccess-bogususerpage": "Zu dieser Benutzerseite ist kein Benutzerkonto vorhanden. Du bist nicht berechtigt, eine solche Benutzerseite zu erstellen.",
 	"right-createbogususerpage": "Benutzerseiten zu nicht vorhandenen Benutzerkonten erstellen"
 }
