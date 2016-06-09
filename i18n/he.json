@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Amire80"
+			"Amire80",
+			"Guycn2"
 		]
 	},
 	"nobogususerpages-desc": "הגבלת יצירת דפי משתמש עם שמות של משתמשים שאינם קיימים",
 	"badaccess-bogususerpage": "שם המשתמש עבור דף המשתמש הזה אינו קיים. אין לך הרשאה ליצור דף משתמש מזויף.",
-	"right-createbogususerpage": "ליצור דף משתמש עבור משתמשים שאינם רשומים בוויקי הזה"
+	"right-createbogususerpage": "יצירת דפי משתמש עבור משתמשים שאינם רשומים לאתר"
 }
