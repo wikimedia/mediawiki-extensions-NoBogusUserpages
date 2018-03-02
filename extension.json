@@ -4,7 +4,7 @@
 	"author": [
 		"[https://www.mediawiki.org/wiki/User:Dantman Daniel Friesen]"
 	],
-	"license-name": "GPL-2.0+",
+	"license-name": "GPL-2.0-or-later",
 	"url": "https://www.mediawiki.org/wiki/Extension:NoBogusUserpages",
 	"descriptionmsg": "nobogususerpages-desc",
 	"type": "antispam",
