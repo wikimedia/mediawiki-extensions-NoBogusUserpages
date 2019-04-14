@@ -6,5 +6,6 @@
 	},
 	"nobogususerpages-desc": "限制不存在使用者的使用者頁面建立",
 	"badaccess-bogususerpage": "此使用者頁面的使用者並不存在。您沒有權限建立一個假冒的使用者頁面。",
-	"right-createbogususerpage": "為此 wiki 尚未註冊的使用者建立使用者頁面"
+	"action-createbogususerpage": "替尚未註冊在此 wiki 的使用者建立使用者頁面",
+	"right-createbogususerpage": "替尚未註冊在此 wiki 的使用者建立使用者頁面"
 }
