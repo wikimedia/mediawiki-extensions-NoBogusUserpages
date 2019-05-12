@@ -2,10 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"EugeneZelenko",
-			"Wizardist"
+			"Wizardist",
+			"Red Winged Duck"
 		]
 	},
 	"nobogususerpages-desc": "Забараняе стварэньне старонак неіснуючых удзельнікаў",
 	"badaccess-bogususerpage": "Удзельнік гэтай старонкі ўдзельніка не існуе. Вы ня маеце дазволу ствараць фіктыўныя старонкі ўдзельнікаў.",
+	"action-createbogususerpage": "стварэньне старонак удзельнікаў, якія не зарэгістраваныя ў гэтай вікі",
 	"right-createbogususerpage": "стварэньне старонак незарэгістраваных ўдзельнікаў"
 }
