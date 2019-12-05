@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"BaRaN6161 TURK"
+		]
+	},
+	"nobogususerpages-desc": "Kullanıcının bulunmadığı kullanıcı sayfalarının oluşturulmasını kısıtlar",
+	"badaccess-bogususerpage": "Bu kullanıcı sayfasının kullanıcısı mevcut değil. Sahte bir kullanıcı sayfası oluşturma hakkınız yoktur.",
+	"action-createbogususerpage": "bu wikiye kayıtlı olmayan kullanıcılar için kullanıcı sayfaları oluştur",
+	"right-createbogususerpage": "Bu wiki'ye kayıtlı olmayan kullanıcılar için kullanıcı sayfaları oluştur"
+}
