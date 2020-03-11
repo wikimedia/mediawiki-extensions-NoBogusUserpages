@@ -17,9 +17,7 @@
 		"NoBogusUserpages": "NoBogusUserpages.class.php"
 	},
 	"Hooks": {
-		"getUserPermissionsErrors": [
-			"NoBogusUserpages::onGetUserPermissionsErrors"
-		]
+		"getUserPermissionsErrors": "NoBogusUserpages::onGetUserPermissionsErrors"
 	},
 	"AvailableRights": [
 		"createbogususerpage"
