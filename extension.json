@@ -14,7 +14,7 @@
 		]
 	},
 	"AutoloadClasses": {
-		"NoBogusUserpages": "NoBogusUserpages.class.php"
+		"NoBogusUserpages": "src/NoBogusUserpages.php"
 	},
 	"Hooks": {
 		"getUserPermissionsErrors": "NoBogusUserpages::onGetUserPermissionsErrors"
