@@ -8,6 +8,9 @@
 	"url": "https://www.mediawiki.org/wiki/Extension:NoBogusUserpages",
 	"descriptionmsg": "nobogususerpages-desc",
 	"type": "antispam",
+	"requires": {
+		"MediaWiki": ">= 1.35.0"
+	},
 	"MessagesDirs": {
 		"NoBogusUserpages": [
 			"i18n"

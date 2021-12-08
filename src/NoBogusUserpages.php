@@ -11,6 +11,9 @@
  *
  */
 
+use MediaWiki\MediaWikiServices;
+use Wikimedia\IPUtils;
+
 class NoBogusUserpages {
 
 	/**
@@ -38,7 +41,7 @@ class NoBogusUserpages {
 		$userName = $userTitle[0];
 
 		// Don't block the creation of IP userpages if the page is for a IPv4 or IPv6 page.
-		if ( User::isIP( $userName ) ) {
+		if ( MediaWikiServices::getInstance()->getUserNameUtils()->isIP( $userName ) || IPUtils::isIPv6( $name ) ) {
 			return true;
 		}
 
