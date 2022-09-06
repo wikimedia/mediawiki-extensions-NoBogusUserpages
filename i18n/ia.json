@@ -6,5 +6,6 @@
 	},
 	"nobogususerpages-desc": "Impedi le creation de paginas de usator pro le quales non existe un usator",
 	"badaccess-bogususerpage": "Le usator de iste pagina de usator non existe. Tu non ha le derecto de crear un false pagina de usator.",
+	"action-createbogususerpage": "crear paginas de usator pro usatores que non es registrate in iste wiki",
 	"right-createbogususerpage": "Crear paginas de usator pro usatores que non es registrate in iste wiki"
 }
