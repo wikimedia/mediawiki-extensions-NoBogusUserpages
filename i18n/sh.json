@@ -6,5 +6,6 @@
 	},
 	"nobogususerpages-desc": "Onemogućava kreiranje korisničkih stranica za nepostojeće korisnike",
 	"badaccess-bogususerpage": "Korisnik ove stranice ne postoji. Nemate prava da kreirate božemnu korisničku stranicu.",
-	"right-createbogususerpage": "Kreiranje korisničkih stranica za neregistrovane korisnike"
+	"action-createbogususerpage": "pravljenje korisničkih stranica za neregistrovane korisnike",
+	"right-createbogususerpage": "Pravljenje korisničkih stranica za neregistrovane korisnike"
 }
