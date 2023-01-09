@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eleassar"
+		]
+	},
+	"nobogususerpages-desc": "Omejuje ustvarjanje uporabniških strani, za katere uporabnik ne obstaja",
+	"badaccess-bogususerpage": "Uporabnik za to uporabniško stran ne obstaja. Nimate pravic za ustvarjanje nepristne uporabniške strani.",
+	"action-createbogususerpage": "ustvarjanje uporabniških strani za uporabnike, ki niso registrirani v tem vikiju",
+	"right-createbogususerpage": "Ustvarjanje uporabniških strani za uporabnike, ki niso registrirani v tem vikiju"
+}
