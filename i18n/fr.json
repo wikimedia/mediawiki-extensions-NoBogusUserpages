@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Gomoko",
-			"Urhixidur"
+			"Urhixidur",
+			"Verdy p"
 		]
 	},
-	"nobogususerpages-desc": "Empêcher la création de pages utilisateur pour lesquelles il n'y a pas d'utilisateur existant",
-	"badaccess-bogususerpage": "L’utilisateur de cette page n’existe pas. Vous n’avez pas le droit de créer une fausse page d’utilisateur.",
-	"action-createbogususerpage": "créer les pages utilisateur pour les utilisateurs qui ne sont pas inscrits sur ce wiki",
-	"right-createbogususerpage": "Créer des pages utilisateur pour des utilisateurs qui ne sont pas enregistrés sur ce wiki"
+	"nobogususerpages-desc": "Empêche la création des pages utilisateur pour lesquelles l’utilisateur n’existe pas",
+	"badaccess-bogususerpage": "L’utilisateur de cette page utilisateur n’existe pas. Vous n’avez pas le droit de créer une fausse page d’utilisateur.",
+	"action-createbogususerpage": "créer des pages utilisateur pour les utilisateurs qui ne sont pas inscrits sur ce wiki",
+	"right-createbogususerpage": "Créer des pages utilisateur pour des utilisateurs qui ne sont pas inscrits sur ce wiki"
 }
