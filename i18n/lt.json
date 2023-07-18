@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nokeoo"
+		]
+	},
+	"nobogususerpages-desc": "Apriboja puslapių neegzistuojantiems naudotojams kūrimą",
+	"badaccess-bogususerpage": "Šio naudotojo puslapio naudotojas neegzistuoja. Jūs neturite teisės kurti netikro naudotojo puslapio.",
+	"action-createbogususerpage": "kurti naudotojų puslapius naudotojams, kurie nėra užsiregistravę šioje viki",
+	"right-createbogususerpage": "Kurti naudotojų puslapius naudotojams, kurie nėra užsiregistravę šioje viki"
+}
