@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Winston Sung"
+		]
+	},
+	"nobogususerpages-desc": "Onemogućava kreiranje korisničkih stranica za nepostojeće korisnike",
+	"badaccess-bogususerpage": "Korisnik ove stranice ne postoji. Nemate prava da kreirate božemnu korisničku stranicu.",
+	"action-createbogususerpage": "pravljenje korisničkih stranica za neregistrovane korisnike",
+	"right-createbogususerpage": "Pravljenje korisničkih stranica za neregistrovane korisnike"
+}
