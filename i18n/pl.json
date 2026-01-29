@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"BeginaFelicysym"
+			"BeginaFelicysym",
+			"Woytecr"
 		]
 	},
-	"nobogususerpages-desc": "Ogranicza tworzenie stron użytkowników dla których użytkownik nie istnieje",
+	"nobogususerpages-desc": "Ogranicza tworzenie stron użytkowników dla nieistniejących użytkowników",
 	"badaccess-bogususerpage": "Użytkownik tej strony użytkownika nie istnieje. Nie masz uprawnienia do tworzenia nieprawdziwej strony użytkownika.",
-	"right-createbogususerpage": "Tworzenie stron użytkownika dla użytkowników, którzy nie są zarejestrowane w tym wiki"
+	"action-createbogususerpage": "tworzenia strony użytkowników, którzy nie są zarejestrowani na tej wiki",
+	"right-createbogususerpage": "Tworzenie stron użytkownika dla użytkowników, którzy nie są zarejestrowani na tej wiki"
 }
