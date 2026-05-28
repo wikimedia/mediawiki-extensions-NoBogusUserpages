@@ -6,6 +6,6 @@
 	},
 	"nobogususerpages-desc": "존재하지 않는 사용자에 대한 사용자 페이지 생성을 제한합니다",
 	"badaccess-bogususerpage": "이 사용자 문서의 사용자는 존재하지 않습니다. 당신는 가짜 사용자 페이지를 생성할 권한이 없습니다.",
-	"action-createbogususerpage": "이 위키에 등록되지 않은 사용자의 사용자 문서를 생성할",
+	"action-createbogususerpage": "이 위키에 등록되지 않은 사용자의 사용자 문서를 생성",
 	"right-createbogususerpage": "이 위키에 등록되지 않은 사용자의 사용자 문서를 생성"
 }
