@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wizzard"
+		]
+	},
+	"nobogususerpages-desc": "Obmedzuje vytváranie používateľských stránok pre neexistujúcich používateľov",
+	"badaccess-bogususerpage": "Používateľ tejto používateľskej stránky neexistuje. Nemáte oprávnenie vytvoriť fiktívnu používateľskú stránku.",
+	"action-createbogususerpage": "vytvárať používateľské stránky pre používateľov, ktorí nie sú na tejto wiki zaregistrovaní",
+	"right-createbogususerpage": "Vytvárať používateľské stránky pre používateľov, ktorí nie sú na tejto wiki zaregistrovaní"
+}
